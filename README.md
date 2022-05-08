@@ -8,7 +8,7 @@ The user in this program will be able to:<br />
   5. Print all contacts sorted.<br />
   6. Save all you done in the phonebook.<br />
 <br/>
-This was the final project of progamming 1 course (3rd term).<br /> 
+This was the final project of progamming 1 course .<br /> 
 The project was done by:<br /><br />
     1) Nour el-din Hazem<br />
     2) Ahmed Osama<br />
