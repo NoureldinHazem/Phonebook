@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1577031110 source:c:\term 3\programming 1\ahmed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Ahmed.h"
+
+1577031110 c:\term 3\programming 1\ahmed\ahmed.h
+
+1577120979 source:c:\term 3\programming 1\ahmed\ahmed.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Ahmed.h"
+
